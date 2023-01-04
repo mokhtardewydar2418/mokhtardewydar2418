@@ -1,8 +1,9 @@
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <h1 align="center">Hi 👋, I'm Mokhtar Dewydar</h1>
 <h3 align="center">Mobile app developer specialized in flutter , interested in ui,ux design</h3>
 
 
-<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuFraOGuKuy3b_APwvK6sJRAA6gw479g8GXQ&usqp=CAU'/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mokhtar-dewydar-84a89a260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mokhtar-dewydar-84a89a260/" height="30" width="40" /></a>
